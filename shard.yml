@@ -1,0 +1,12 @@
+name: ascii_chart
+version: 0.1.0
+
+authors:
+  - teuffel spam@teuffel.org 
+
+description: |
+  Nice-looking lightweight console ASCII line charts ╭┈╯ | A port of kroitor/ascii_chart 
+
+crystal: 0.26.1
+
+license: MIT
